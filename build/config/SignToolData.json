@@ -27,7 +27,6 @@
         "Dlls\\CodeAnalysis\\Microsoft.CodeAnalysis.dll",
         "Dlls\\CodeStyle\\Microsoft.CodeAnalysis.CodeStyle.dll",
         "Dlls\\CodeStyleFixes\\Microsoft.CodeAnalysis.CodeStyle.Fixes.dll",
-        "Dlls\\Diagnostics\\Roslyn.Hosting.Diagnostics.dll",
         "Dlls\\EditorFeatures.Next\\Microsoft.CodeAnalysis.EditorFeatures.Next.dll",
         "Dlls\\EditorFeatures\\Microsoft.CodeAnalysis.EditorFeatures.dll",
         "Dlls\\Features\\Microsoft.CodeAnalysis.Features.dll",
@@ -64,6 +63,10 @@
         "Vsix\\CompilerExtension\\Roslyn.Compilers.Extension.dll",
         "Vsix\\Templates\\Roslyn.Templates.dll",
         "Vsix\\VisualStudioDiagnosticsWindow\\Roslyn.VisualStudio.DiagnosticsWindow.dll",
+        "Vsix\\VisualStudioIntegrationTestSetup\\Microsoft.VisualStudio.IntegrationTest.Setup.dll",
+        "Vsix\\VisualStudioIntegrationTestSetup\\Microsoft.VisualStudio.IntegrationTest.Setup.vsix",
+        "Vsix\\VisualStudioIntegrationTestSetup\\Microsoft.VisualStudio.IntegrationTest.Utilities.dll",
+        "Vsix\\VisualStudioIntegrationTestSetup\\Roslyn.Hosting.Diagnostics.dll",
         "Vsix\\VisualStudioInteractiveComponents\\Roslyn.VisualStudio.InteractiveComponents.dll"
       ]
     },
